@@ -2,4 +2,4 @@
 
 A context of exercises for CS 361 Software Engineering.
 
-(c) Jane Johannsson, John Jackson
+(c) Shayla Lane, Carson Key, Adrianna Guevarra, Jackson Cutler
